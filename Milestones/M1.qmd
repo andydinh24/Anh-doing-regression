@@ -1,0 +1,7 @@
+---
+title: "M1"
+format: 
+  html:
+    embeded-resources: true
+---
+
