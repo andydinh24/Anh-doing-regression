@@ -1,6 +1,0 @@
----
-title: "Hey"
-output: html_document
----
-
-what sup
