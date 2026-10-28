@@ -1,6 +1,7 @@
 #Main code
 
 library(here)
+here("README.md")
 
 library(renv)
 
